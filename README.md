@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tekutos&label=Profile%20views&color=0e75b6&style=flat" alt="tekutos" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <div align="center">
  <img src="<iframe src="https://giphy.com/embed/Ie4QbWZLnIzvQehD2I" width="480" height="298" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mediamodifier-Ie4QbWZLnIzvQehD2I">via GIPHY</a></p>"
 </div>
+ 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 <a name="telegram" href="https://t.me/Prelestnuy"><img src="https://img.icons8.com/color/48/000000/telegram-app--v3.png"/></a>
 <a name="watsapp" href="https://wa.me/79955994088"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v6.png"/></a>
