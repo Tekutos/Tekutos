@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Denis</h1>
 <h3 align="center">A passionate frontend developer from Russia, SPB</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tekutos&label=Profile%20views&color=0e75b6&style=flat" alt="tekutos" /> </p>
+<div align="center">
+ <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
-<div align="center">
- <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
 
 <a name="telegram" href="https://t.me/Prelestnuy"><img src="https://img.icons8.com/color/48/000000/telegram-app--v3.png"/></a>
 <a name="watsapp" href="https://wa.me/79955994088"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v6.png"/></a>
