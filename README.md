@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
- <iframe src="https://giphy.com/embed/Ie4QbWZLnIzvQehD2I" width="480" height="298" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mediamodifier-Ie4QbWZLnIzvQehD2I">via GIPHY</a></p>
+ <img src="https://giphy.com/embed/Ie4QbWZLnIzvQehD2I" width="480" height="298" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mediamodifier-Ie4QbWZLnIzvQehD2I">via GIPHY</a></p></img>
 </div>
 
 <a name="telegram" href="https://t.me/Prelestnuy"><img src="https://img.icons8.com/color/48/000000/telegram-app--v3.png"/></a>
