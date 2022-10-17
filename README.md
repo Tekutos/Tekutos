@@ -1,13 +1,13 @@
 <div align='center'>
-<h1 align="left">Hi 👋, I'm Denis</h1>
-<h3 align="left">A passionate frontend developer from Russia, SPB</h3>
+<h1 align="center">Hi 👋, I'm Denis</h1>
+<h3 align="center">A passionate frontend developer from Russia, SPB</h3>
 
-<div align="left">
+<div align="center">
  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 </p>
 
 
