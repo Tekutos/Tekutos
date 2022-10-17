@@ -23,6 +23,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tekutos&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="left">
+
 [![codewars](https://www.codewars.com/users/Tekuto/badges/micro)](https://www.codewars.com/users/Tekuto)
-<div>
+
